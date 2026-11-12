@@ -1,7 +1,7 @@
 {
     "name": "Mi Perfil Digital App",
     "short_name": "MiPerfil",
-    "start_url": "Taller.html",
+    "start_url": "Index.html",
     "display": "standalone",
     "background_color": "#121212",
     "theme_color": "#007bff",
